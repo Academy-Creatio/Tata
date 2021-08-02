@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "24f9d51a-25e6-4ce4-a683-97afdd480cc1",
+    "PackageVersion": "7.8.0",
+    "Name": "Tata",
+    "ModifiedOnUtc": "\/Date(1627893446000)\/",
+    "Maintainer": "Customer",
+    "Description": "Training Package\nhttps://github.com/Academy-Creatio/README.md",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d1f26e3-d480-374a-df28-9ef914b8ae90",
+    "Name": "TataFirstPackage",
+    "ModifiedOnUtc": "\/Date(1627887102000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

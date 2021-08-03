@@ -11,7 +11,7 @@
 - [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
 - [Custom Logging][nlog] - How to enable custom logging
 - [FTP] - Download Creatio
-- [Odata] postman collection
+- [Odata] - postman collection
 <!-- - Import Postman Environment and Collection from Postman folder. This folder includes DataService requests -->
 <!-- - [Import Visual Studio][vsTpl] Templates provided in VisualStudioTemplate folder. -->
 
@@ -62,7 +62,7 @@ Thank you for having taken development training with me. In order to make this c
 [nlog]:https://github.com/Academy-Creatio/TrainingProgramm/wiki/Custom-Logging-with-NLog
 [oData]:https://documenter.getpostman.com/view/10204500/SztHX5Qb?version=latest
 [vsTpl]:https://docs.microsoft.com/en-us/visualstudio/ide/how-to-create-item-templates?view=vs-2019
-[ftp]:http://ftp.bpmonline.com/support/downloads/!Release/installation_files/7.18.0/
+[ftp]:http://ftp.bpmonline.com/support/downloads/!Release/installation_files/
 
 [about]:https://github.com/kirillkrylov/ImagesAndPages/wiki/Kirill-Krylov,-CPA
 [feedBackForm]: https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UOTZNWkhBN1JCM1lYQjJIQlk0NUJFNVhNSy4u

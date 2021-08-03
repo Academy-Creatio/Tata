@@ -11,9 +11,9 @@
 - [File System Mode][fsmode] - WIKI how to enable development in filesystem mode
 - [Custom Logging][nlog] - How to enable custom logging
 - [FTP] - Download Creatio
+- [Odata] postman collection
 <!-- - Import Postman Environment and Collection from Postman folder. This folder includes DataService requests -->
 <!-- - [Import Visual Studio][vsTpl] Templates provided in VisualStudioTemplate folder. -->
-- [Odata] postman collection
 
 
 
@@ -22,8 +22,8 @@ Files will be **automatically** deleted after 20 days.
 |Day|Download Link|
 |:--:|:--:|
 |1|[Link][d1v]|
-<!-- 
 |2|[Link][d2v]|
+<!-- 
 |3|[Link][d3v]|
 |4|[Link][d4v]|
 |5|[Link][d5v]|
@@ -46,8 +46,8 @@ Thank you for having taken development training with me. In order to make this c
 
 <!-- Named Links -->
 [d1v]: https://creatio-global.zoom.us/rec/share/RylmwmFCZ1Al1mnRCdm9SBGokz4hZGLzaAnY19k1j73Z4MrUqVoWdWvjCnu1hHZS.hvyNxWGrrMb_2l8f
+[d2v]: https://creatio-global.zoom.us/rec/share/qbifNNlQN6x0ugljglPPHJve_SlXa3GYnMx7S7XYI0WEI9sVt9vnsWrmtRxxHgyb.i_mzxDo-i_3XE6a1s
 <!-- 
-[d2v]: 
 [d3v]: 
 [d4v]: 
 [d5v]: 

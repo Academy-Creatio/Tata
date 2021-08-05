@@ -55,8 +55,6 @@ namespace Tata.WebServices
 			//otherwise the process runs in a separate thread and never returnss
 			ProcessDescriptor processDescriptor = processEngine.ProcessExecutor.Execute(
 				 "Process_9264360", inputParams, new string[] {"result"});
-
-
 			IReadOnlyDictionary<string, object> results = processDescriptor.ResultParameterValues; //iterate over collection to find the result
 			
 

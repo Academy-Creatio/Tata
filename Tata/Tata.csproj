@@ -141,6 +141,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Files\cs\Calculator.cs" />
+    <Compile Include="Files\cs\WebServices\CheckEmailUnique.cs" />
     <Compile Include="Files\cs\DataEventListener\ContactEventListener.cs" />
     <Compile Include="Files\cs\WebServices\DemoWebService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

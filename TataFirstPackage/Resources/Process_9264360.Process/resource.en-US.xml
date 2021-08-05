@@ -16,7 +16,7 @@
 			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
 			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
-			<Item Name="Parameters.RecordId.Caption" Value="RecordId" />
+			<Item Name="Parameters.RecordId.Caption" Value="Record Id" />
 			<Item Name="Parameters.result.Caption" Value="result" />
 		</Items>
 	</Group>
